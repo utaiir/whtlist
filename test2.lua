@@ -1,2 +1,1 @@
-return function(...)
-  print("Function: ",...)
+local object = "Hello"
