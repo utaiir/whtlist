@@ -10,3 +10,4 @@ local AIS = {
 	"z6k4ywbwj4bkw18a98sx962lszdk",
 }
 print("Abc")
+return AIS
